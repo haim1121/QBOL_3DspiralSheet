@@ -13,9 +13,10 @@ https://colab.research.google.com/drive/1-Dzm1p0hGKcP9Tgxr4HNVjvpvceRu_FN?usp=sh
 ### QBOL 3D Spiral Score WIKI
 http://optics.dgist.ac.kr/wiki/index.php/3D_Spiral_Score
 
-`MIDIToSpiral5.mlx` 메인 파일입니다. 
-`DesignAnAudioPluginExample`오디오 플러그인 예제입니다. 
-`ExampleFiles` 다양한 예제 파일이 들어있습니다. 
-`ResultVideo` 다양한 결과 파일이 들어있습니다.
-`VideoAudioConcat.ipynb` 영상과 음악을 묶을 수 있는 코랩 파일입니다. 
-`output_example.avi` 대표 코드 작동 결과입니다. 
+### File & Folders ###
+`MIDIToSpiral5.mlx` 메인 파일입니다. <br>
+`DesignAnAudioPluginExample`오디오 플러그인 예제입니다. <br>
+`ExampleFiles` 다양한 예제 파일이 들어있습니다. <br>
+`ResultVideo` 다양한 결과 파일이 들어있습니다.<br>
+`VideoAudioConcat.ipynb` 영상과 음악을 묶을 수 있는 코랩 파일입니다. <br>
+`output_example.avi` 대표 코드 작동 결과입니다. <br>
